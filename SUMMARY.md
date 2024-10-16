@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Undal (WYRD) Network](README.md)
+* [Abstract](abstract.md)
+* [Table of Contents](table-of-contents.md)
+* [Overview of Undal (WYRD)](overview-of-undal-wyrd.md)
+* [Market Overview](market-overview.md)
+* [Technology Overview](technology-overview.md)
+* [Undal Ecosystem](undal-ecosystem.md)
+* [Tokenomics](tokenomics.md)
+* [Governance Model](governance-model.md)
+* [Use cases](use-cases.md)
+* [Roadmap](roadmap.md)
+* [Team](team.md)
+* [Partnerships and Ecosystem Growth](partnerships-and-ecosystem-growth.md)
+* [Conclusion](conclusion.md)
